@@ -1,0 +1,25 @@
+{
+  "Links": {},
+  "Items": [
+    {
+      "WebId": "F1DPvyM3lLyA_ESd-w9MrhaJxgsUwAAAU1dQQ1JETFBTUEkwMVxMUENfR0xQTEgwX1BNRzAxX0ZRWTAx",
+      "Name": "LPC_GLPLH0_PMG01_FQY01",
+      "Path": "\\\\SWPCRDLPSPI01\\LPC_GLPLH0_PMG01_FQY01",
+      "Links": {
+        "Source": "https://10.17.16.81/PIWEBAPI/points/F1DPvyM3lLyA_ESd-w9MrhaJxgsUwAAAU1dQQ1JETFBTUEkwMVxMUENfR0xQTEgwX1BNRzAxX0ZRWTAx"
+      },
+      "Items": [
+        {
+          "Timestamp": "2026-07-02T10:22:46.2710113Z",
+          "Value": 75938.34,
+          "UnitsAbbreviation": "",
+          "Good": true,
+          "Questionable": false,
+          "Substituted": false,
+          "Annotated": false
+        }
+      ],
+      "UnitsAbbreviation": ""
+    }
+  ]
+}
